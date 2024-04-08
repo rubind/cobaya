@@ -47,6 +47,9 @@ You shouldn't need to modify any of the options of these likelihoods,
 but if you really need to, just copy the ``likelihood`` block into your input ``yaml``
 file and modify whatever options you want (you can delete the rest).
 
+.. literalinclude:: ../cobaya/likelihoods/sn/union3.yaml
+   :language: yaml
+
 .. literalinclude:: ../cobaya/likelihoods/sn/pantheon.yaml
    :language: yaml
 

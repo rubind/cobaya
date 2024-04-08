@@ -1,0 +1,15 @@
+# Settings for the Union3 SN Ia sample
+
+# Path to the data: where the sn_data has been cloned
+path: null
+# .dataset file with settings
+dataset_file: Union3/full_long.dataset
+# Overriding of .dataset parameters
+dataset_params:
+  # field: value
+# Aliases for automatic covariance matrix
+aliases: [Union3]
+# Use absolute magnitude
+use_abs_mag: False
+# Speed in evaluations/second
+speed: 100
